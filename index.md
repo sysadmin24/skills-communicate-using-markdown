@@ -28,3 +28,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 get-childitem
 write-host "This is the result"
 ```
+
+
+
+###### Creating Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
